@@ -1,0 +1,58 @@
+<style>
+.serviceBox {
+    text-align: left;
+}
+</style>
+- Customer Register
+- Customer Login
+- Employee Login
+
+------------------------------------------------------------------
+
+- Dashboard
+
+::DRIVING CLASS::
+- Driving Class Package
+- View Driving Class Package
+
+::DRIVING LICENSE::
+- Driving License Package
+- View Driving License Package
+
+::EXAMINATION::
+- Add Questions
+- View Questions
+
+::USERS::
+- Add Employee
+- View Employee
+- Add Customer
+- View Customers
+
+::SETTINGS::
+Branch
+- Add Branch
+- View Branch
+- Add Vehicle
+- View Vehicle
+- Add user time slot
+- View user time slot
+
+::ACCOUNT::
+- Employee Profile
+- Change password
+
+- Logout
+
+--------------------------------------------------------------------
+
+CUSTOMER ACCOUNT
+
+::DRIVING CLASS::
+- Apply for Driving class
+- View My Application
+
+:: MY ACCOUNT::
+- Employee Profile
+- Change password
+
