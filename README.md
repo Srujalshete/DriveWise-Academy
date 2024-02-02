@@ -79,6 +79,44 @@ DriveWise Academy is a comprehensive driving school management system developed 
 - JavaScript Library: jQuery
 - Authentication: Oath
 - Email Services: Oh-mailer
-- Communication: POP3/SMTP
+
+**Setting Up DriveWise Academy Website - Quick Guide**
+
+**XAMPP Installation:**
+
+1. Download and install XAMPP from [https://www.apachefriends.org/](https://www.apachefriends.org/).
+2. Follow the installation instructions based on your operating system.
+
+**Download DriveWise Academy:**
+
+1. Obtain the DriveWise Academy application package from our official website or repository.
+2. Ensure you have the necessary files downloaded.
+
+**Extract and Move:**
+
+1. Unzip the DriveWise Academy package.
+2. Move the extracted contents into the "htdocs" folder within the XAMPP installation directory.
+
+**Database Setup:**
+
+1. Open PHPMyAdmin ([http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)).
+2. Create a new database named "onlinedrivingschool" and import the "onlinedrivingschool.sql" file.
+ 
+**Start XAMPP Services:**
+
+1. Launch XAMPP and start both Apache and MySQL services.
+
+**Access DriveWise Academy:**
+
+1. Open your web browser and enter [http://localhost/drivewise/](http://localhost/drivewise/).
+2. Register for an account with a valid email and password.
+
+**Explore DriveWise Academy:**
+
+1. Log in to DriveWise Academy and navigate through the intuitive interface.
+2. Explore the features designed to streamline driving school management.
+3. Utilize functionalities such as managing driving classes, licenses, examinations, users, and settings.
+
+ 
 
  
