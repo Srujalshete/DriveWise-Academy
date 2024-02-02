@@ -1,8 +1,12 @@
 # DriveWise-Academy
 
 <img width="1440" alt="Screenshot 2024-02-03 at 2 40 54 AM" src="https://github.com/Srujalshete/DriveWise-Academy/assets/67551839/bd68b066-4ac0-4a3d-9af3-d2eb768ddb87">
+
+
  
 DriveWise Academy is a comprehensive driving school management system developed using a robust tech stack. PHP serves as the backbone of the application, managing server-side functionality, while MySQL handles the database for seamless data storage and retrieval. HTML and CSS contribute to the project's structure and styling, providing an intuitive and visually appealing user interface. JavaScript, along with the jQuery library, enhances interactivity and dynamic elements. For authentication, Oath is implemented, and Oh-mailer handles email services. Communication is streamlined through POP3/SMTP protocols, and the responsive design capabilities of Bootstrap ensure a consistent experience across devices.
+
+
 <img width="1440" alt="Screenshot 2024-02-03 at 2 43 44 AM" src="https://github.com/Srujalshete/DriveWise-Academy/assets/67551839/4bf2a336-529f-40f7-9f27-5ab8b83e68f6">
 
 
@@ -77,5 +81,4 @@ DriveWise Academy is a comprehensive driving school management system developed 
 - Email Services: Oh-mailer
 - Communication: POP3/SMTP
 
-**Conclusion:**
-DriveWise Academy, with its diverse tech stack, provides a tailored experience for admins, users, and teachers. This open-source project is designed to efficiently manage driving school operations and can be customized to meet the specific needs of each user role.
+ 
