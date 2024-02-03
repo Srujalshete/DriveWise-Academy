@@ -77,7 +77,7 @@ DriveWise Academy is a comprehensive driving school management system developed 
 - Frontend: HTML, CSS, Bootstrap
 - JavaScript Library: jQuery
 - Authentication: Oath
-- Email Services: Oh-mailer
+- Email Services: Phpmailer
 
 **Setting Up DriveWise Academy Website - Quick Guide**
 
